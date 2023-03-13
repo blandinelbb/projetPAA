@@ -1,19 +1,5 @@
 import "../css/navbar.css";
 import * as React from "react";
-
-// export default function NavBar() {
-//   return (
-//     <div>
-//       <Container sx={{ backgroundColor: "#7a8fd4" }}>
-//         <Box sx={{ height: "60px", width: "1000px" }}>
-//           <p id="title"> Mon site à tout faire</p>
-//         </Box>
-//       </Container>
-//       <hr></hr>
-//     </div>
-//   );
-// }
-
 import AppBar from "@mui/material/AppBar";
 import Box from "@mui/material/Box";
 import Toolbar from "@mui/material/Toolbar";
