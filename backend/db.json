@@ -1,0 +1,60 @@
+{
+  "taches": [
+    {
+      "content": "Faire le projet web",
+      "id": "7b7e5228-be57-4204-ae7e-782d51d4849d"
+    },
+    {
+      "content": "Faire les courses",
+      "id": "f3630a27-d23c-4ad6-9a7a-937bc14a2440"
+    },
+    {
+      "content": "Réparer mon PC",
+      "id": "d9f4f690-140f-49e2-bd82-0725a8d74923"
+    },
+    {
+      "content": "Passez chez le boulanger",
+      "id": "3de13657-a7f5-4b5d-8e21-110d0b394e17"
+    }
+  ],
+  "gifts": [
+    {
+      "content": "PC",
+      "personne": "Moi",
+      "prix": "2000",
+      "id": "9be1fb1a-5bb0-4389-998c-baa3f9cac724"
+    },
+    {
+      "content": "Disneyland",
+      "personne": "Moi",
+      "prix": "105",
+      "id": "9831f26c-29e5-4386-8251-f9d76375391e"
+    },
+    {
+      "content": "Bracelet",
+      "personne": "Frère",
+      "prix": "50",
+      "id": "961b586c-7956-4fb5-b814-0ab74a0a8da0"
+    }
+  ],
+  "rdvs": [
+    {
+      "date": "2023-03-01",
+      "title": "Dentiste",
+      "time": "8H20",
+      "id": "7358c44c-4690-4d57-ab73-da75356f2b56"
+    },
+    {
+      "date": "2023-03-13",
+      "title": "Rendu projet web",
+      "time": "12H30",
+      "id": "0dd76543-f2ce-44d5-a7e9-08dc971afc6e"
+    },
+    {
+      "date": "2023-03-01",
+      "title": "Coiffeur",
+      "time": "14H10",
+      "id": "86800d22-6a56-43af-81d1-2830c25e49b3"
+    }
+  ]
+}

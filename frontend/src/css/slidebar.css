@@ -1,0 +1,19 @@
+#element {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  padding: 10px 50px;
+}
+
+#link {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  font-size: large;
+  font-weight: bold;
+}
+
+#block_bar {
+  text-align: center;
+  border-style: none none double none;
+}
