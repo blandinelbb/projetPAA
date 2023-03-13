@@ -1,5 +1,5 @@
 ## Contexte
-Projet effectué dans le cadre d'un cours en programmation web.
+Projet effectué dans le cadre d'un cours en programmation web.<br/>
 Membre : LIN Blandine
 ### Package et outil utilisés :
 - React
@@ -19,5 +19,5 @@ Puis lancer le backend avec `npm run start`
 
 ### Pour le frontend
 
-Dans le deuxième terminal, faire un `cd frontend | npm i ` pour installer les dépendances côté frontend.
+Dans le deuxième terminal, faire un `cd frontend | npm i ` pour installer les dépendances côté frontend.<br/>
 Puis lancer le frontend avec `npm start`
