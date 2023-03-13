@@ -1,4 +1,4 @@
-### Projet effectué dans le cadre d'un cours en programmation web
+## Projet effectué dans le cadre d'un cours en programmation web
 Package et outil utilisés :
 - React
 - Json server
