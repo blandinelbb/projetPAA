@@ -1,3 +1,13 @@
+### Projet effectué dans le cadre d'un cours en programmation web
+Package et outil utilisés :
+- React
+- Json server
+- Material ui
+- Fullcalendar
+- Axios
+
+### Mise en place du projet 
+
 Ouvrer 2 terminal
 
 ### Pour le backend
