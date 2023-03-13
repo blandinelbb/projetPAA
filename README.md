@@ -1,12 +1,14 @@
-## Projet effectué dans le cadre d'un cours en programmation web
-Package et outil utilisés :
+## Contexte
+Projet effectué dans le cadre d'un cours en programmation web.
+Membre : LIN Blandine
+### Package et outil utilisés :
 - React
 - Json server
 - Material ui
 - Fullcalendar
 - Axios
 
-### Mise en place du projet 
+## Installer le projet chez vous 
 
 Ouvrer 2 terminal
 
